@@ -1,4 +1,19 @@
 {
-  "last_processed_run_id": 0,
-  "history": []
+  "last_processed_run_id": 23109749427,
+  "history": [
+    {
+      "run_id": 23109749427,
+      "branch": "stable",
+      "head_sha": "a894e9e20768f43230f2f77d9f39f0385edec40c",
+      "html_url": "https://github.com/yelnoo/sing-box/actions/runs/23109749427",
+      "forwarded_files": [
+        "sing-box-1.13.3-a894e9e2-windows-amd64.zip",
+        "sing-box-1.13.3-a894e9e2-android-arm64.tar.gz",
+        "sing-box_1.13.3-a894e9e2_openwrt_x86_64.apk",
+        "sing-box_1.13.3-a894e9e2_openwrt_x86_64.ipk",
+        "sing-box_1.13.3-a894e9e2_openwrt_aarch64_generic.apk",
+        "sing-box_1.13.3-a894e9e2_openwrt_aarch64_generic.ipk"
+      ]
+    }
+  ]
 }
